@@ -1,2 +1,2 @@
 # goorgdebug
-golang.org/debug
+golang.org/x/debug
